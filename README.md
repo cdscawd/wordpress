@@ -10,5 +10,5 @@
 
 ## 备注：
 ```
-    wp-config.php 为数据库相关配置文件, _reade.md查看详情
+    wp-config.php 为数据库相关配置文件, _reade.html查看详情
 ```
